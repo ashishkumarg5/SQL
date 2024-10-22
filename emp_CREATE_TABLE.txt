@@ -6,9 +6,7 @@ salary int,
 manager_id int,
 emp_age int);
 
-insert into emp
-values
-(1, 'Ankit', 100,10000, 4, 39;
+insert into emp values(1, 'Ankit', 100,10000, 4, 39);
 insert into emp
 values (2, 'Mohit', 100, 15000, 5, 48);
 insert into emp
